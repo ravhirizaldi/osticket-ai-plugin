@@ -1,7 +1,7 @@
 # osTicket AI Plugin
 
-This plugin is an extension for [osTicket](https://osticket.com/) that adds AI capabilities to help agents respond to support tickets more efficiently.  
-Currently, it supports **Google Gemini** as the AI model and provides a simple popup interface for generating AI-powered responses.  
+This plugin is an extension for [osTicket](https://osticket.com/) that adds AI capabilities to help agents respond to support tickets more efficiently. Currently, it supports **Google Gemini** as the AI model and provides a simple popup interface for generating AI-powered responses. 
+
 In future releases, planned features include **automated ticket responses** and more advanced AI-assisted workflows.
 
 ## 🚀 Features
