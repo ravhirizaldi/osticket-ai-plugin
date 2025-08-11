@@ -19,6 +19,23 @@ Gemini Models :
 - Gemini 2.5 Flash
 - Gemini 2.5 Pro
 
+## 📸 Screenshots - How to Use
+1. **Plugin Management** — Navigate to the **Admin Panel > Manage > Plugins** and select **Ask AI Plugin** to install.
+   ![Ask AI Plugin](./screenshots/plugins.png)
+
+2. **Create Plugin Instance** — Configure your plugin instance by setting the API Key, model, and preferred response language.
+   ![Ask AI - Create Instance](./screenshots/create-instance-1.png)  
+   ![Ask AI - Create Instance](./screenshots/create-instance-2.png)
+
+3. **Activate Plugin** — Once created, activate the plugin so it’s ready to use.
+   ![Ask AI - Activating Plugin](./screenshots/activating.png)
+
+4. **Ticket View** — Open a ticket in the agent panel. You will see the "Ask AI" button under the "More" dropdown.
+   ![Ask AI - Ticket View](./screenshots/more-link.png)
+
+5. **AI Response Popup** — Click the link to open a popup where the AI generates step-by-step solutions for the ticket issue.
+   ![Ask AI - Popup](./screenshots/popup.png)
+
 ## 📂 Project Structure
 ```
 ASK_AI/
