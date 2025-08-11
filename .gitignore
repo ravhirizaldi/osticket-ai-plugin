@@ -1,0 +1,41 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Composer dependencies (if you use composer in dev)
+vendor/
+
+# PHP / Cache
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Environment / Credentials
+.env
+.env.local
+.env.*
+
+# PHPUnit
+.phpunit.result.cache
+
+# Development-only files
+.ide-helper.php
+
+# Node (if ever used for frontend assets)
+node_modules/
+dist/
+
+# OS Ticket specific (if cloned into include/plugins/)
+# Avoid committing osTicket core files accidentally
+osticket/
+upload/
